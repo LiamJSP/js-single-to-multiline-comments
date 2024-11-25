@@ -3,6 +3,10 @@
 	"version": "1.0.0",
 	"description": "Convert single-line JavaScript comments to multi-line comments.",
 	"main": "lib/converter.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/LiamJSP/js-single-to-multiline-comments"
+    },
 	"bin": {
 		"js-comment-converter": "./bin/convert.js"
 	},
