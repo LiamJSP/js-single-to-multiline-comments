@@ -1,0 +1,21 @@
+{
+	"name": "js-single-to-multiline-comments",
+	"version": "1.0.0",
+	"description": "Convert single-line JavaScript comments to multi-line comments.",
+	"main": "lib/converter.js",
+	"bin": {
+		"js-comment-converter": "./bin/convert.js"
+	},
+	"scripts": {
+		"start": "node ./bin/convert.js"
+	},
+	"keywords": [
+		"javascript",
+		"comments",
+		"converter",
+		"cli"
+	],
+	"author": "Liam Sherman Parris",
+	"license": "MIT"
+}
+
